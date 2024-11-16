@@ -52,3 +52,5 @@ The app is designed to be user-friendly and requires no coding knowledge. Users 
 ## Credits:
 - **Data Thinkers** (YouTube Channel for Tutorials).
 
+link to use the app:
+https://edaprojectwithappio-hserty66hkpaxzzemlaomm.streamlit.app/
