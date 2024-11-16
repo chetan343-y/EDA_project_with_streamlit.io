@@ -50,6 +50,5 @@ The app is designed to be user-friendly and requires no coding knowledge. Users 
 - Designed to make data exploration easy for beginners and professionals alike.
 
 ## Credits:
-- **Chetan Sharma** (App Creator).
 - **Data Thinkers** (YouTube Channel for Tutorials).
 
