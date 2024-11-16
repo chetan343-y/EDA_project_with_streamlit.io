@@ -1,1 +1,3 @@
-pip install seaborn pandas streamlit
+pandas=2.2.2
+seaborn=0.13.2
+streamlit=1.40.1
